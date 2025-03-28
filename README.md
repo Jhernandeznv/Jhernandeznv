@@ -3,16 +3,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<!--Icon CSS-->
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
     <img src="https://icons.veryicon.com/png/System/Hex/css%203.png" alt="css3" width="40" height="40"/>
   </a> 
   <!-- Icon git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png" alt="git" width="40" height="40"/>
   </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <!--Icon html-->
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://icons.veryicon.com/png/System/Hex/html%205.png" alt="html5" width="40" height="40"/>
   </a> 
   <!--
