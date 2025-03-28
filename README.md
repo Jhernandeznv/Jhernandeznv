@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
-<h3 align="center">I started to learn programming, I am currently studying computer systems engineering and computer science, I started to like all this branch and I hope to explore it even more...</h3>
+<h3 align="center">I started to learn programming, I am currently studying information systems engineering and computer science, I started to like all this branch and I hope to explore it even more....</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
